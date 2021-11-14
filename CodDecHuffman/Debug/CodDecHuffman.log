@@ -1,0 +1,5 @@
+﻿  CodDecHuffman.cpp
+C:\Users\usuario\Desktop\CodDecHuffman\CodDecHuffman\CodDecHuffman.cpp(173,27): warning C4244: '=': conversión de 'unsigned long' a 'unsigned char'; posible pérdida de datos
+C:\Users\usuario\Desktop\CodDecHuffman\CodDecHuffman\CodDecHuffman.cpp(184,39): warning C4244: '=': conversión de 'unsigned long' a 'unsigned char'; posible pérdida de datos
+C:\Users\usuario\Desktop\CodDecHuffman\CodDecHuffman\CodDecHuffman.cpp(185,28): warning C4244: '=': conversión de 'unsigned long' a 'unsigned char'; posible pérdida de datos
+  CodDecHuffman.vcxproj -> C:\Users\usuario\Desktop\CodDecHuffman\Debug\CodDecHuffman.exe
